@@ -14,7 +14,7 @@ If you do use **git fetch** instead of **git pull**, make sure you remember to *
 
 ---
 
-_Sources_
+# _Sources_
 
 https://www.freecodecamp.org/news/git-pull-explained/#git-fetch-plus-git-merge
 
