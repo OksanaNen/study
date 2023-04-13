@@ -12,6 +12,11 @@
 
 If you do use **git fetch** instead of **git pull**, make sure you remember to **git merge**. Merging the remote tracking branch into your own branch ensures you will be working with any updates or changes.
 
+# git commit --amend
+
+
+**git commit --amend** add new indexed changes to the latest commit. With the **--amend commit**, you can add changes to or remove changes from the Git index. If no changes have been indexed, using the **--amend flag** will still prompt you to change the last commit comment.
+
 ---
 
 # _Sources_
