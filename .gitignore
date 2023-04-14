@@ -37,3 +37,9 @@ jspm_packages
 
 #Help
 help.md
+
+#system files
+.DS_Store
+
+#configuration files
+.env
